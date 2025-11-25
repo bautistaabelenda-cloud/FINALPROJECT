@@ -1,0 +1,65 @@
+
+h1{
+	color: #f50000;
+}
+
+body{
+	background-color: #fff;
+}
+
+p{
+   color: #f00
+}
+
+.pinkparagraph{
+     color: #f20505;
+}
+
+
+table, td{
+	 border-style: line;
+}
+
+td{
+    border-width: 2px;	 
+    border-color: #0d0d0d;}
+ 
+  table{
+	 
+	 margin-right: auto;
+	 margin-left: auto;
+}   
+
+body{
+	background-image: url("white.jpg");
+	background-size:80% ;
+}
+
+img{
+	border-radius: 25px;
+}
+img:hover{
+	opacity: 0.75;
+}
+
+ul{
+	list-style-type: none;
+	overflow: hidden;
+
+
+}	
+li a{
+	float: left;
+	display: block;
+	width: 100px;
+	text-align: center;
+	background-color: #ffffff;
+	padding: 15px 15px;
+	text-decoration: none;
+}
+li a:hover{
+	background-color: #ffffff;
+}
+.active{
+	border-bottom: 2px solid #f20505;
+
